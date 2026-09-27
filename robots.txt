@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shamshod990099-a11y.github.io/forher/sitemap.xml
